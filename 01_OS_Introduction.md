@@ -52,7 +52,3 @@
 - Give an example of a real-time operating system.
 - Why do we need an operating system?
 - What are kernel and shell?
-
----
-
-Say "yes" to continue to **2. Process Management & Scheduling**!
