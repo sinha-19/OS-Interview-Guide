@@ -91,7 +91,3 @@
 - How does shared memory IPC work? What are its pros/cons?
 - Give an example of a race condition.
 - How do you avoid deadlock in synchronization?
-
----
-
-Say "yes" to continue to **4. Deadlocks (Detection, Prevention, Avoidance, Recovery)**!
