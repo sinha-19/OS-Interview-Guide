@@ -1,1 +1,0 @@
-# OS-Interview-Guide
