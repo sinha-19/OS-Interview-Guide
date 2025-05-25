@@ -89,7 +89,3 @@ New → Ready → Running → (Waiting ↔ Ready) → Terminated
 - Which scheduling algorithm is used in Linux?
 - What is starvation? How to avoid it?
 - How is preemptive scheduling different from non-preemptive?
-
----
-
-Say "yes" to continue to **3. Inter-Process Communication (IPC) & Synchronization**!
